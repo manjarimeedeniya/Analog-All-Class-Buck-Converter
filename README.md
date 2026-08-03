@@ -82,7 +82,7 @@ Efficiency was evaluated across three distinct input voltages (9.5 V, 12 V, and 
 
 ---
 
-## Group 15 Members
+## Group Members
 
 * **Dilhan W.A** (230145E)[cite: 1]
 * **Karunarathna G.K.T W.A** (230322U)[cite: 1]
