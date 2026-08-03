@@ -82,9 +82,11 @@ Efficiency was evaluated across three distinct input voltages (9.5 V, 12 V, and 
 
 ---
 
-## Group Members
+## Team Contributions
 
-* **Dilhan W.A** (230145E)[cite: 1]
-* **Karunarathna G.K.T W.A** (230322U)[cite: 1]
-* **Meedeniya M.M.H** (230407K)[cite: 1]
-* **Peramunage D.S** (230473G)[cite: 1]
+| Student | Registration No. | Key Responsibilities |
+| :--- | :--- | :--- |
+| **Dilhan W.A** | 230145E | PWM Circuit Design, Component Selection, Testing, Documentation |
+| **Karunarathna G.K.T W.A** | 230322U | Buck Converter & Switching Circuit Design, Component Selection, Testing, Documentation |
+| **Meedeniya M.M.H** | 230407K | Buck Converter & Switching Circuit Design, Component Selection, Testing, Documentation |
+| **Peramunage D.S** | 230473G | PWM Circuit Design, Component Selection, Testing, Documentation |
