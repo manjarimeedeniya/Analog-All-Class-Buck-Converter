@@ -45,7 +45,7 @@ The converter consists of two key stages:
 Hardware prototype assembled on breadboard, featuring discrete logic-level gate driving and bootstrap high-side control[cite: 1].
 
 <p align="center">
-  <img src="docs/images/Breadboard_Setup.jpeg" alt="Breadboard Setup" width="70%"/>
+  <img src="docs/images/Breadboard Setup.jpeg" alt="Breadboard Setup" width="70%"/>
   <br>
   <em>Figure 3: Hardware Implementation & Bench Testing Setup</em>
 </p>
